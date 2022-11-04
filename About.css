@@ -1,0 +1,1302 @@
+.About-container {
+  min-height: 100vh;
+}
+.About-About {
+  width: 100%;
+  height: 2787px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.About-front {
+  top: 0px;
+  left: 0px;
+  width: 1360.943359375px;
+  height: 2787.055908203125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-rectangle1 {
+  top: -0.0001096863707061857px;
+  left: 0.9431612491607666px;
+  width: 1360px;
+  height: 2787px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-group13 {
+  top: 529.8331298828125px;
+  left: 294.66351318359375px;
+  width: 55.72222137451172px;
+  height: 152.9998321533203px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-rectangle3 {
+  top: 48.16651153564453px;
+  left: 36.8314094543457px;
+  width: 5px;
+  height: 105px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon1 {
+  top: 35.657596588134766px;
+  left: 0.0000015274700899681193px;
+  width: 36px;
+  height: 56px;
+  position: absolute;
+}
+.About-polygon2 {
+  top: 56.859474182128906px;
+  left: 0.0000015274700899681193px;
+  width: 36px;
+  height: 56px;
+  position: absolute;
+}
+.About-ellipse12 {
+  top: 510.0003662109375px;
+  left: 482.61175537109375px;
+  width: 373px;
+  height: 324px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-ellipse11 {
+  top: 635.6116333007812px;
+  left: 616.7215576171875px;
+  width: 439px;
+  height: 324px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-ellipse10 {
+  top: 590.27783203125px;
+  left: 278.61175537109375px;
+  width: 488px;
+  height: 411px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-text {
+  top: 254px;
+  left: 350px;
+  color: rgba(0, 58, 142, 1);
+  width: 695px;
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-union {
+  top: 212.49960327148438px;
+  left: 979.387939453125px;
+  width: 151px;
+  height: 47px;
+  position: absolute;
+}
+.About-group3 {
+  top: 346.610595703125px;
+  left: 209.66549682617188px;
+  width: 151.264404296875px;
+  height: 47.463531494140625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-union1 {
+  top: 0px;
+  left: 0px;
+  width: 151px;
+  height: 47px;
+  position: absolute;
+}
+.About-text02 {
+  top: 339.02783203125px;
+  left: 548px;
+  color: rgba(0, 38, 233, 1);
+  width: 267px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-group4 {
+  top: 529.8345336914062px;
+  left: 952px;
+  width: 55.72222137451172px;
+  height: 152.99935913085938px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-rectangle31 {
+  top: 48.16603088378906px;
+  left: 36.83429718017578px;
+  width: 5px;
+  height: 105px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon11 {
+  top: 35.657596588134766px;
+  left: 0.0000015274700899681193px;
+  width: 36px;
+  height: 56px;
+  position: absolute;
+}
+.About-polygon21 {
+  top: 56.8589973449707px;
+  left: 0.0000015274700899681193px;
+  width: 36px;
+  height: 56px;
+  position: absolute;
+}
+.About-group6 {
+  top: 498.66705322265625px;
+  left: 739.5px;
+  width: 34.9444465637207px;
+  height: 69.8888931274414px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-ellipse8 {
+  top: 55.86021423339844px;
+  left: 7.5558762550354px;
+  width: 20px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon4 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 70px;
+  position: absolute;
+}
+.About-rectangle7 {
+  top: 26.034664154052734px;
+  left: 22.44627571105957px;
+  width: 1px;
+  height: 9px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle8 {
+  top: 43.9566535949707px;
+  left: 17.335880279541016px;
+  width: 1px;
+  height: 12px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle10 {
+  top: 40.06996154785156px;
+  left: 25.834918975830078px;
+  width: 1px;
+  height: 12px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle6 {
+  top: 21.72258949279785px;
+  left: 17px;
+  width: 2px;
+  height: 41px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-group18 {
+  top: 587.4449462890625px;
+  left: 850px;
+  width: 34.9444465637207px;
+  height: 69.8888931274414px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-ellipse81 {
+  top: 55.860321044921875px;
+  left: 7.5558762550354px;
+  width: 20px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon41 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 70px;
+  position: absolute;
+}
+.About-rectangle701 {
+  top: 26.03525161743164px;
+  left: 22.44627571105957px;
+  width: 1px;
+  height: 9px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle801 {
+  top: 43.95676040649414px;
+  left: 17.335880279541016px;
+  width: 1px;
+  height: 12px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle1001 {
+  top: 40.06910705566406px;
+  left: 25.834918975830078px;
+  width: 1px;
+  height: 12px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle61 {
+  top: 21.722213745117188px;
+  left: 17px;
+  width: 2px;
+  height: 41px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-group20 {
+  top: 600.6670532226562px;
+  left: 925.554931640625px;
+  width: 34.9444465637207px;
+  height: 72.72222137451172px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-ellipse82 {
+  top: 58.12428283691406px;
+  left: 7.556102752685547px;
+  width: 20px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon42 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 73px;
+  position: absolute;
+}
+.About-rectangle702 {
+  top: 27.089466094970703px;
+  left: 22.446500778198242px;
+  width: 1px;
+  height: 9px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle802 {
+  top: 45.73855209350586px;
+  left: 17.33514404296875px;
+  width: 1px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle1002 {
+  top: 41.69450759887695px;
+  left: 25.83514404296875px;
+  width: 1px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle62 {
+  top: 22.602712631225586px;
+  left: 16.999263763427734px;
+  width: 2px;
+  height: 42px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-group19 {
+  top: 633.721923828125px;
+  left: 888.7215576171875px;
+  width: 40.611114501953125px;
+  height: 79.33332824707031px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-ellipse83 {
+  top: 63.03375244140625px;
+  left: 10.261110305786133px;
+  width: 22px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon43 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 79px;
+  position: absolute;
+}
+.About-rectangle703 {
+  top: 29.44229507446289px;
+  left: 25.817495346069336px;
+  width: 1px;
+  height: 9px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle803 {
+  top: 49.059566497802734px;
+  left: 20.154678344726562px;
+  width: 1px;
+  height: 14px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle1003 {
+  top: 44.80523681640625px;
+  left: 29.571855545043945px;
+  width: 1px;
+  height: 14px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle63 {
+  top: 24.722156524658203px;
+  left: 19.78318977355957px;
+  width: 2px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-group14 {
+  top: 464.6666259765625px;
+  left: 596.8868408203125px;
+  width: 34.9444465637207px;
+  height: 90.66667175292969px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-ellipse84 {
+  top: 74.53524017333984px;
+  left: 7.5558762550354px;
+  width: 20px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon44 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 91px;
+  position: absolute;
+}
+.About-rectangle704 {
+  top: 33.773834228515625px;
+  left: 22.446273803710938px;
+  width: 1px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle804 {
+  top: 57.024681091308594px;
+  left: 17.335880279541016px;
+  width: 1px;
+  height: 15px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle1004 {
+  top: 51.98262023925781px;
+  left: 25.835880279541016px;
+  width: 1px;
+  height: 15px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle64 {
+  top: 27.388729095458984px;
+  left: 17.000961303710938px;
+  width: 2px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-group15 {
+  top: 602.555419921875px;
+  left: 352.2794189453125px;
+  width: 36.833335876464844px;
+  height: 74.61124420166016px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-ellipse85 {
+  top: 63.945369720458984px;
+  left: 8.906136512756348px;
+  width: 21px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon45 {
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 73px;
+  position: absolute;
+}
+.About-rectangle705 {
+  top: 27.09037971496582px;
+  left: 23.659873962402344px;
+  width: 1px;
+  height: 9px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle805 {
+  top: 45.73946762084961px;
+  left: 18.27423095703125px;
+  width: 1px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle1005 {
+  top: 41.694461822509766px;
+  left: 27.232337951660156px;
+  width: 1px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle65 {
+  top: 22.30143165588379px;
+  left: 17.916213989257812px;
+  width: 2px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-group16 {
+  top: 574.221923828125px;
+  left: 391px;
+  width: 36.833335876464844px;
+  height: 88.7776870727539px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-ellipse86 {
+  top: 76.03398132324219px;
+  left: 8.908061981201172px;
+  width: 21px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon46 {
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 87px;
+  position: absolute;
+}
+.About-rectangle706 {
+  top: 32.36753845214844px;
+  left: 23.659873962402344px;
+  width: 1px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle806 {
+  top: 54.64924240112305px;
+  left: 18.27423095703125px;
+  width: 1px;
+  height: 15px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle1006 {
+  top: 49.81602096557617px;
+  left: 27.232336044311523px;
+  width: 1px;
+  height: 15px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle66 {
+  top: 26.646013259887695px;
+  left: 17.916213989257812px;
+  width: 2px;
+  height: 57px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-group17 {
+  top: 564.77783203125px;
+  left: 425.94317626953125px;
+  width: 36.833335876464844px;
+  height: 85.94380187988281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-ellipse87 {
+  top: 73.61565399169922px;
+  left: 8.90786361694336px;
+  width: 21px;
+  height: 12px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon47 {
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 84px;
+  position: absolute;
+}
+.About-rectangle707 {
+  top: 31.311986923217773px;
+  left: 23.65967559814453px;
+  width: 1px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle807 {
+  top: 52.867069244384766px;
+  left: 18.274032592773438px;
+  width: 1px;
+  height: 14px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle1007 {
+  top: 48.19120407104492px;
+  left: 27.232139587402344px;
+  width: 1px;
+  height: 14px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle67 {
+  top: 25.776689529418945px;
+  left: 17.916015625px;
+  width: 2px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-group5 {
+  top: 485.4440002441406px;
+  left: 671.1160278320312px;
+  width: 35.328125px;
+  height: 28.167131423950195px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-rectangle708 {
+  top: 10.563091278076172px;
+  left: 6.23331356048584px;
+  width: 21px;
+  height: 18px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle808 {
+  top: 12.909444808959961px;
+  left: 9.006014823913574px;
+  width: 6px;
+  height: 5px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle9 {
+  top: 20.538463592529297px;
+  left: 9.006014823913574px;
+  width: 6px;
+  height: 5px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle1008 {
+  top: 12.909444808959961px;
+  left: 20.089122772216797px;
+  width: 6px;
+  height: 5px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle12 {
+  top: 0.00016629869060125202px;
+  left: 21.474029541015625px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle11 {
+  top: 20.538463592529297px;
+  left: 20.089122772216797px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon6 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 15px;
+  position: absolute;
+}
+.About-group9 {
+  top: 564.77783203125px;
+  left: 459.94317626953125px;
+  width: 52.88888931274414px;
+  height: 44.22245788574219px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.About-rectangle709 {
+  top: 16.582792282104492px;
+  left: 9.333248138427734px;
+  width: 32px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle809 {
+  top: 20.268339157104492px;
+  left: 13.481232643127441px;
+  width: 9px;
+  height: 8px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle91 {
+  top: 32.24552536010742px;
+  left: 13.481232643127441px;
+  width: 9px;
+  height: 8px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle1009 {
+  top: 20.268339157104492px;
+  left: 30.075096130371094px;
+  width: 9px;
+  height: 8px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle121 {
+  top: -0.000003538270902936347px;
+  left: 32.14812469482422px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle111 {
+  top: 32.24552536010742px;
+  left: 30.075096130371094px;
+  width: 9px;
+  height: 12px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-polygon61 {
+  top: 0px;
+  left: 0px;
+  width: 53px;
+  height: 23px;
+  position: absolute;
+}
+.About-text04 {
+  top: 153.0003662109375px;
+  left: 910.445068359375px;
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text06 {
+  top: 153.0003662109375px;
+  left: 1003.945068359375px;
+  color: rgba(50, 104, 92, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text08 {
+  top: 153.0003662109375px;
+  left: 1090.8323974609375px;
+  color: rgba(50, 104, 92, 1);
+  width: 58px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-ellipse13 {
+  top: 129.38909912109375px;
+  left: 204px;
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-rectangle13 {
+  top: 796.1665649414062px;
+  left: 0.9431612491607666px;
+  width: 1359px;
+  height: 1991px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-ellipse14 {
+  top: 848.1116333007812px;
+  left: 553.445068359375px;
+  width: 252px;
+  height: 252px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-text10 {
+  top: 1122.9449462890625px;
+  left: 653.554931640625px;
+  color: rgba(43, 190, 157, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 30.222219467163086px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text12 {
+  top: 1181.4993896484375px;
+  left: 458.0549011230469px;
+  color: rgba(0, 0, 0, 1);
+  width: 439px;
+  height: auto;
+  position: absolute;
+  font-size: 22.66666603088379px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text14 {
+  top: 1461.9998779296875px;
+  left: 512.8314208984375px;
+  color: rgba(44, 190, 158, 1);
+  width: 326px;
+  height: auto;
+  position: absolute;
+  font-size: 45.33333206176758px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text16 {
+  top: 1602.721923828125px;
+  left: 636.5558471679688px;
+  color: rgba(44, 190, 158, 1);
+  width: 280px;
+  height: auto;
+  position: absolute;
+  font-size: 26.444442749023438px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text18 {
+  top: 1664.1107177734375px;
+  left: 636.5558471679688px;
+  color: rgba(0, 0, 0, 1);
+  width: 414px;
+  height: auto;
+  position: absolute;
+  font-size: 20.77777671813965px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-ellipse15 {
+  top: 1600.833740234375px;
+  left: 296.55682373046875px;
+  width: 151px;
+  height: 151px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-ellipse17 {
+  top: 1846.388671875px;
+  left: 899.1117553710938px;
+  width: 151px;
+  height: 151px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-ellipse16 {
+  top: 1881.332763671875px;
+  left: 765px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.9444443583488464px;
+}
+.About-ellipse18 {
+  top: 1635.77783203125px;
+  left: 501.5px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-text20 {
+  top: 1846.388671875px;
+  left: 324.88824462890625px;
+  color: rgba(44, 190, 158, 1);
+  width: 280px;
+  height: auto;
+  position: absolute;
+  font-size: 22.66666603088379px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text22 {
+  top: 1911.5552978515625px;
+  left: 324.88824462890625px;
+  color: rgba(0, 0, 0, 1);
+  width: 386px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text24 {
+  top: 2180.722900390625px;
+  left: 593.1107788085938px;
+  color: rgba(44, 190, 158, 1);
+  width: 232px;
+  height: auto;
+  position: absolute;
+  font-size: 43.44444274902344px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text26 {
+  top: 2282.722900390625px;
+  left: 416.5px;
+  color: rgba(44, 190, 158, 1);
+  width: 586px;
+  height: auto;
+  position: absolute;
+  font-size: 30.222219467163086px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text28 {
+  top: 2354.5px;
+  left: 373.0549011230469px;
+  color: rgba(0, 0, 0, 1);
+  width: 657px;
+  height: auto;
+  position: absolute;
+  font-size: 20.77777671813965px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-rectangle14 {
+  top: 2447.05517578125px;
+  left: 597.8342895507812px;
+  width: 196px;
+  height: 50px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 4.722221851348877px;
+}
+.About-gmail-logo {
+  top: 2450.832763671875px;
+  left: 611.054931640625px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-text30 {
+  top: 2464.05615234375px;
+  left: 663px;
+  color: rgba(0, 36, 27, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 15.111109733581543px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-rectangle15 {
+  top: 2618.944580078125px;
+  left: 0px;
+  width: 1360px;
+  height: 168px;
+  position: absolute;
+  border-color: transparent;
+}
+.About-text32 {
+  top: 2663.332763671875px;
+  left: 441.05682373046875px;
+  color: rgba(49, 104, 91, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text34 {
+  top: 2664.27783203125px;
+  left: 592.1657104492188px;
+  color: rgba(49, 104, 91, 1);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text36 {
+  top: 2663.332763671875px;
+  left: 739.5px;
+  color: rgba(49, 104, 91, 1);
+  width: 70px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-text38 {
+  top: 2721.88916015625px;
+  left: 586.5px;
+  color: rgba(49, 104, 91, 1);
+  width: 291px;
+  height: auto;
+  position: absolute;
+  font-size: 7.5555548667907715px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.About-line1 {
+  top: 2744.55517578125px;
+  left: 631.8342895507812px;
+  width: 66px;
+  height: 0px;
+  position: absolute;
+}

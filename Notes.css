@@ -1,0 +1,649 @@
+.Notes-container {
+  min-height: 100vh;
+}
+.Notes-Notes {
+  width: 100%;
+  height: 2533px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.Notes-rectangle17 {
+  top: 1px;
+  left: 0px;
+  width: 1360px;
+  height: 463px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-ellipse19 {
+  top: 108.666015625px;
+  left: 252.1669921875px;
+  width: 63px;
+  height: 63px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-text {
+  top: 130.388671875px;
+  left: 876.4443359375px;
+  color: rgba(50, 104, 92, 1);
+  width: 55px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-text02 {
+  top: 130.388671875px;
+  left: 969.9443359375px;
+  color: rgba(50, 104, 92, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-text04 {
+  top: 130.388671875px;
+  left: 1056.8330078125px;
+  color: rgba(0, 0, 0, 1);
+  width: 58px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-rectangle3 {
+  top: 364.12109375px;
+  left: 913.29296875px;
+  width: 4px;
+  height: 100px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-polygon1 {
+  top: 352.2294921875px;
+  left: 878.333984375px;
+  width: 34px;
+  height: 53px;
+  position: absolute;
+}
+.Notes-polygon2 {
+  top: 372.384765625px;
+  left: 878.333984375px;
+  width: 34px;
+  height: 53px;
+  position: absolute;
+}
+.Notes-rectangle31 {
+  top: 364.12109375px;
+  left: 420.2939453125px;
+  width: 4px;
+  height: 100px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-polygon11 {
+  top: 352.2294921875px;
+  left: 385.3330078125px;
+  width: 34px;
+  height: 53px;
+  position: absolute;
+}
+.Notes-polygon21 {
+  top: 372.384765625px;
+  left: 385.3330078125px;
+  width: 34px;
+  height: 53px;
+  position: absolute;
+}
+.Notes-union {
+  top: 332.8876953125px;
+  left: 1058px;
+  width: 114px;
+  height: 36px;
+  position: absolute;
+}
+.Notes-ellipse5 {
+  top: 350.68896484375px;
+  left: 1121.37109375px;
+  width: 36px;
+  height: 16px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-union1 {
+  top: 293.8330078125px;
+  left: 182.0009765625px;
+  width: 133px;
+  height: 42px;
+  position: absolute;
+}
+.Notes-ellipse51 {
+  top: 316.56005859375px;
+  left: 241.4619140625px;
+  width: 46px;
+  height: 21px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-rectangle65 {
+  top: 1759px;
+  left: 0px;
+  width: 1360px;
+  height: 162px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-text06 {
+  top: 332px;
+  left: 555px;
+  color: rgba(69, 178, 154, 1);
+  width: 250px;
+  height: auto;
+  position: absolute;
+  font-size: 72px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-text08 {
+  top: 522px;
+  left: 517px;
+  color: rgba(33, 125, 104, 1);
+  width: 324px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-text10 {
+  top: 574px;
+  left: 577px;
+  color: rgba(49, 104, 91, 1);
+  width: 189px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-rectangle46 {
+  top: 607px;
+  left: 398px;
+  width: 547px;
+  height: 356px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-rectangle47 {
+  top: 649px;
+  left: 519px;
+  width: 102px;
+  height: 269px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 31px;
+}
+.Notes-rectangle48 {
+  top: 645px;
+  left: 712px;
+  width: 127px;
+  height: 277px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px;
+}
+.Notes-rectangle49 {
+  top: 720px;
+  left: 528px;
+  width: 82px;
+  height: 57px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.Notes-rectangle50 {
+  top: 832px;
+  left: 530px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle54 {
+  top: 832px;
+  left: 560px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle58 {
+  top: 832px;
+  left: 588px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle51 {
+  top: 852px;
+  left: 530px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle55 {
+  top: 852px;
+  left: 560px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle59 {
+  top: 852px;
+  left: 588px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle52 {
+  top: 872px;
+  left: 530px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle56 {
+  top: 872px;
+  left: 560px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle60 {
+  top: 872px;
+  left: 588px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle53 {
+  top: 892px;
+  left: 530px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle57 {
+  top: 892px;
+  left: 560px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle61 {
+  top: 892px;
+  left: 588px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5.5px;
+}
+.Notes-rectangle63 {
+  top: 683px;
+  left: 719px;
+  width: 113px;
+  height: 203px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-ellipse21 {
+  top: 654px;
+  left: 773px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-ellipse22 {
+  top: 719px;
+  left: 745px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-ellipse23 {
+  top: 734px;
+  left: 554px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-text12 {
+  top: 1034px;
+  left: 398px;
+  color: rgba(0, 0, 0, 1);
+  width: 610px;
+  height: auto;
+  position: absolute;
+  font-size: 27px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-text14 {
+  top: 1167px;
+  left: 398px;
+  color: rgba(39, 39, 39, 1);
+  width: 563px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-text15 {
+  color: rgba(39, 39, 39, 1);
+  text-decoration: NONE;
+}
+.Notes-text16 {
+  text-decoration: UNDERLINE;
+}
+.Notes-text17 {
+  color: rgba(44, 190, 158, 1);
+}
+.Notes-text21 {
+  color: rgba(39, 39, 39, 1);
+  text-decoration: NONE;
+}
+.Notes-text29 {
+  color: rgba(44, 190, 158, 1);
+  text-decoration: UNDERLINE;
+}
+.Notes-rectangle40 {
+  top: 1974.6123046875px;
+  left: -1px;
+  width: 1360px;
+  height: 391px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-text36 {
+  top: 1997.2783203125px;
+  left: 570.388671875px;
+  color: rgba(44, 190, 158, 1);
+  width: 232px;
+  height: auto;
+  position: absolute;
+  font-size: 43.44444274902344px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-text38 {
+  top: 2099.2783203125px;
+  left: 393.7783203125px;
+  color: rgba(44, 190, 158, 1);
+  width: 586px;
+  height: auto;
+  position: absolute;
+  font-size: 30.22222137451172px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-text40 {
+  top: 2171.0556640625px;
+  left: 350.333984375px;
+  color: rgba(0, 0, 0, 1);
+  width: 657px;
+  height: auto;
+  position: absolute;
+  font-size: 20.77777671813965px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-rectangle41 {
+  top: 2263.61181640625px;
+  left: 575.1123046875px;
+  width: 196px;
+  height: 50px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 4.722221851348877px;
+}
+.Notes-gmail-logo {
+  top: 2267.38916015625px;
+  left: 588.333984375px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-text42 {
+  top: 2280.61181640625px;
+  left: 640.2783203125px;
+  color: rgba(0, 36, 27, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 15.11111068725586px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.Notes-rectangle42 {
+  top: 2365.6123046875px;
+  left: -1px;
+  width: 1360px;
+  height: 168px;
+  position: absolute;
+  border-color: transparent;
+}
+.Notes-text44 {
+  top: 2410.00048828125px;
+  left: 440.0556640625px;
+  color: rgba(49, 104, 91, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-text46 {
+  top: 2410.9453125px;
+  left: 591.1669921875px;
+  color: rgba(49, 104, 91, 1);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-text48 {
+  top: 2410.00048828125px;
+  left: 738.5px;
+  color: rgba(49, 104, 91, 1);
+  width: 70px;
+  height: auto;
+  position: absolute;
+  font-size: 18.888887405395508px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-text50 {
+  top: 2463.833984375px;
+  left: 527.888671875px;
+  color: rgba(49, 104, 91, 1);
+  width: 291px;
+  height: auto;
+  position: absolute;
+  font-size: 7.55555534362793px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.Notes-line2 {
+  top: 2484.61181640625px;
+  left: 589.2783203125px;
+  width: 84px;
+  height: 0px;
+  position: absolute;
+}
